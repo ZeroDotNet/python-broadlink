@@ -65,6 +65,7 @@ SUPPORTED_TYPES = {
         0xA56A: ("MCB1", "Broadlink"),
         0xA56B: ("SCB1E", "Broadlink"),
         0xA56C: ("SP4L-EU", "Broadlink"),
+        0xA576: ("SP4L-AU", "Broadlink"),
         0xA589: ("SP4L-UK", "Broadlink"),
         0xA5D3: ("SP4L-EU", "Broadlink"),
     },
@@ -158,7 +159,7 @@ SUPPORTED_TYPES = {
         0x60C8: ("LB1", "Broadlink"),
         0x6112: ("LB1", "Broadlink"),
         0x644B: ("LB1", "Broadlink"),
-        0x644C: ("LB27 R1", "Broadlink"),        
+        0x644C: ("LB27 R1", "Broadlink"),
         0x644E: ("LB26 R1", "Broadlink"),
     },
     lb2: {
@@ -168,9 +169,9 @@ SUPPORTED_TYPES = {
     S1C: {
         0x2722: ("S2KIT", "Broadlink"),
     },
-    s3:  {
-        0xA59C:("S3", "Broadlink"),
-        0xA64D:("S3", "Broadlink"),
+    s3: {
+        0xA59C: ("S3", "Broadlink"),
+        0xA64D: ("S3", "Broadlink"),
     },
     hysen: {
         0x4EAD: ("HY02/HY03", "Hysen"),
