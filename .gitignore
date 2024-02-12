@@ -1,1 +1,7 @@
 *.pyc
+.venv/
+broadlink.egg-info/
+build/
+cli/cocina
+cli/pecera
+dist/
